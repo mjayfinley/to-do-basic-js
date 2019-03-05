@@ -1,0 +1,47 @@
+#container {
+  margin: auto;
+  width: 25%;
+  padding-top: 200px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#newTask {
+  height: 20px;
+  padding: 10px;
+  font-size: 18px;
+  margin: 5px;
+}
+
+#taskBtn {
+  background-color: #55a4d5;
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 16px;
+  text-align: center;
+  color: grey;
+  font-weight: normal;
+}
+
+#task {
+  background-color: #55a4d5;
+  color: white;
+  list-style: none;
+  text-align: center;
+  padding: 14px;
+}
+
+#checkbox {
+  float: left;
+  background-color: #55a4d5;
+  color: white;
+}
+
+#removeButton {
+  float: right;
+}
